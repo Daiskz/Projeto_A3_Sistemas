@@ -6,7 +6,7 @@
 # Sobre o Projeto
 
 
-Nosso projeto da materia de Sistemas Distribuídos associado a um dos 17 Objetivos de Desenvolvimento Sustentável (ODS), com base no tema de Saúde e Bem-Estar possui como objetivo fazer um artefato computacional que possui uma API de alimentos e suas calorias em um banco de dados, além de realizar o calculo do IMC e a quantidade de calorias que devem ser ingeridas de acordo com seus resultados.
+Nosso projeto da materia de Sistemas Distribuídos associado a um dos 17 Objetivos de Desenvolvimento Sustentável (ODS), com base no tema de Saúde e Bem-Estar possui como objetivo fazer um artefato computacional que contém uma API de alimentos e suas calorias em um banco de dados, além de realizar o calculo do IMC e a quantidade de calorias que devem ser ingeridas de acordo com seus resultados.
 
 <h4 align="center"> 
 	🚧  Finalizado 🚧
