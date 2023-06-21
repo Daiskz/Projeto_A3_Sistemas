@@ -31,6 +31,8 @@ Nosso projeto da materia de Sistemas Distribuídos associado a um dos 17 Objetiv
 
 - [Node.js](https://nodejs.org/en/)	
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [MySQL](https://dev.mysql.com/doc/)
+- [Express](https://expressjs.com)
 
 # Contribuição
 
